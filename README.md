@@ -5,17 +5,15 @@ The **Smart Navigation and Alert System** is a real-time obstacle detection devi
 It uses an **HC-SR04 ultrasonic sensor** to detect nearby objects and displays the distance on an **I²C LCD screen**, while a **buzzer** provides immediate audio alerts when an obstacle comes too close.  
 The entire system is powered by a **Raspberry Pi**, making it flexible, programmable, and ideal for IoT-based extensions.
 
----
 
 ## ✨ Features  
-- 📡 **Real-time obstacle detection and alert**  
-- 🔊 **Audio-visual feedback** using buzzer and LCD  
-- ⚙️ **Adjustable detection threshold** (default: 10 cm)  
-- 🔌 **Compact, low-cost, and energy-efficient**  
-- 🌍 **IoT and automation ready**  
-- 🧠 **ARM-based Raspberry Pi controller** for intelligent processing  
+-  **Real-time obstacle detection and alert**  
+-  **Audio-visual feedback** using buzzer and LCD  
+-  **Adjustable detection threshold** (default: 10 cm)  
+-  **Compact, low-cost, and energy-efficient**  
+-  **IoT and automation ready**  
+-  **ARM-based Raspberry Pi controller** for intelligent processing  
 
----
 
 ## 🛠 Components Used  
 
@@ -28,7 +26,7 @@ The entire system is powered by a **Raspberry Pi**, making it flexible, programm
 | Breadboard & jumper wires | Circuit prototyping |
 | Power supply | 5V DC (USB or adapter) |
 
----
+
 
 ## 🔌 Circuit Connections  
 
@@ -52,8 +50,6 @@ The entire system is powered by a **Raspberry Pi**, making it flexible, programm
 
 
 
----
-
 ## 🧠 Software Flow  
 1. Send trigger signal to ultrasonic sensor  
 2. Measure echo response time  
@@ -62,7 +58,6 @@ The entire system is powered by a **Raspberry Pi**, making it flexible, programm
 5. If below threshold → activate buzzer and display “Warning!”  
 6. Otherwise → show live distance reading on LCD  
 
----
 
 ## ⚙️ Component Description  
 
@@ -80,7 +75,6 @@ The entire system is powered by a **Raspberry Pi**, making it flexible, programm
 - Supports Multiple Programming Languages (Python, C, C++)  
 - Ideal for Embedded and IoT Applications  
 
----
 
 ## 🔗 Interfacing Summary  
 
@@ -94,7 +88,6 @@ The entire system is powered by a **Raspberry Pi**, making it flexible, programm
 | Power | 5V | Supply |
 | GND | GND | Common ground |
 
----
 
 ## 🧪 Implementation and Results  
 
@@ -107,11 +100,10 @@ The entire system is powered by a **Raspberry Pi**, making it flexible, programm
 - Stable performance in different lighting and environmental conditions  
 
 ## 📸 Prototype Images  
-<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/f3f025f9-4865-4a38-8a55-24f7d329c516" />
- ![WhatsApp Image 2025-11-04 at 00 11 58_9f0a41db](https://github.com/user-attachments/assets/15157466-e856-48c2-82df-ea42c5cf9aa2)
+<img width="655" height="370" alt="Screenshot 2025-11-04 001911" src="https://github.com/user-attachments/assets/8bd93268-3fe7-499c-b450-73fd020c6ce5" />
+![WhatsApp Image 2025-11-04 at 00 11 58_9f0a41db](https://github.com/user-attachments/assets/155c0b96-b975-4b9c-a8a9-0dd83fdff465)
 
 
----
 
 ## 🌱 Applications  
 

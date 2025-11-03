@@ -101,6 +101,8 @@ The entire system is powered by a **Raspberry Pi**, making it flexible, programm
 
 ## 📸 Prototype Images  
 <img width="655" height="370" alt="Screenshot 2025-11-04 001911" src="https://github.com/user-attachments/assets/8bd93268-3fe7-499c-b450-73fd020c6ce5" />
+
+
 ![WhatsApp Image 2025-11-04 at 00 11 58_9695c5df](https://github.com/user-attachments/assets/cdbcfc20-87b4-4080-96de-f8a7ea9adf9e)
 
 

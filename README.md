@@ -45,8 +45,10 @@ The entire system is powered by a **Raspberry Pi**, making it flexible, programm
 ---
 
 ## 📦 Block Diagram  
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b455a219-4f68-47ef-8989-aef6f0f4d406" />
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0dced3d7-f6e2-425c-8d60-f5506ca2ef79" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/eb75806f-d58b-4c23-b65e-b22fafb7455d" />
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/bb89e38d-72f0-4884-9f24-42b79b3de70c" />
+
 
 ---
 
